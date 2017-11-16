@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: xinyufeng
-baseurl: /StrayBirds
+baseurl: "/StrayBirds"
 markdown: redcarpet
 safe: false
 highlighter: pygments
